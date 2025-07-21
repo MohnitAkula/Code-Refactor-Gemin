@@ -1,0 +1,7 @@
+# Core libraries
+lizard
+semgrep
+
+# Google Gemini API
+google-generativeai
+
