@@ -13,9 +13,9 @@ NebulaAI is a code intelligence tool that uses **Gemini (Google's LLM)** and **S
 
 ---
 ## Instructions
-- Setup Google api key as an environment variable as GOOGLE_API_KEY=your_api_key
-- Run reuirments.txt with pip install -r requirements.txt
-- Make a Semgrep account and then run semgrep login after running reuirements.txt
+- Set-up Google api key as an environment variable as GOOGLE_API_KEY=your_api_key
+- Run requirements.txt with pip install -r requirements.txt
+- Make a Semgrep account and then run semgrep login after running requirements.txt
   
 ## 📁 Project Structure
 
